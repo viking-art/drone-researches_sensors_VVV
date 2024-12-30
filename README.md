@@ -1,2 +1,2 @@
-# ORC_Intern_Drone
+# Drone Project
 Github for storing drone project
