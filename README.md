@@ -1,2 +1,2 @@
-# Drone Project
-Github for storing drone project
+# Drone Research
+Github for storing drone research
